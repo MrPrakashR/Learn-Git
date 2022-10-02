@@ -9,4 +9,4 @@ public class Sum {
     }
 }
 
-print(Sum().addTwoNumber(a: 1, b: 2))
+print("Sum of two number ",Sum().addTwoNumber(a: 1, b: 2))
